@@ -1,4 +1,4 @@
-#My Toy Git Repo
+# My Toy Git Repo
 Author: Kyle Ray
 
 this is a toy repository blah blah blah, learning about git
